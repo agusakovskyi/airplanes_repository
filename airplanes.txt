@@ -5,3 +5,7 @@ Type: Fighter
 Airplane number: 2
 Name: IL-76
 Type: Cargo
+
+Airplane number 3
+Name: SU-24
+Type: Bomber
