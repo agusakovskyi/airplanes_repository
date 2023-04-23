@@ -1,3 +1,7 @@
 Airplane number: 1
 Name: SU-27
 Type: Fighter
+
+Airplane number: 2
+Name: IL-76
+Type: Cargo
